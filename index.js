@@ -334,7 +334,7 @@ function doesBrickFit(brick, hole) {
     }
 }
 
-console.log(doesBrickFit(brickSizes, holeSizes))
+// console.log(doesBrickFit(brickSizes, holeSizes))
 
 ////////////////////////////////////////////////////////
 
